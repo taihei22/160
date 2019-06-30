@@ -1,0 +1,5 @@
+contents="160_contents" #記事リポジトリ
+contents_owner="taihei22"
+wwwdir="/var/www"
+contentsdir="$wwwdir/$contents"
+appdir="$wwwdir/160"
